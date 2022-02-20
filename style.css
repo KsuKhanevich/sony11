@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color: #87CEFA;
+}
+
+header {
+    background-color: navy;
+    padding: 20px;
+    color: white;
+}
+
+header a{
+     color: white;
+}
+
+nav{
+    margin: 20px;
+}
+
+nav a{
+   margin: 40px;
+   font-size: 20px;
+   text-decoration: none;
+   color:white;
+   border: 3px solid navy;
+   border-radius: 10px;
+   background-color: navy;
+   padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+footer{
+    background-color: navy;
+    color: white;
+}
